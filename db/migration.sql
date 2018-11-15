@@ -1,2 +1,2 @@
 ALTER TABLE pokemon
-ADD COLUMN
+ADD COLUMN hp
