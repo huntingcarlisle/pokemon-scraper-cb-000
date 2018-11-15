@@ -17,4 +17,8 @@ class Pokemon
     return self.new(id: id, name: table_data[1], type: table_data[2], db: db, hp: table_data[3])
   end
   
+  def alter_hp(amount, db)
+    
+  end
+  
 end
